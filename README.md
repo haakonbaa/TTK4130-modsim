@@ -7,12 +7,18 @@ Python programs to render systems in the different assignments. Take a look at [
 ```txt
 .
 ├── o5
-│   └── 1
-│       ├── doublependulum.py
-│       ├── PendulumDynamics.m
-│       ├── PendulumSimulation.m
-│       ├── PendulumSymbolic.m
-│       └── README.md
+│   ├── 1
+│   │   ├── doublependulum.py
+│   │   ├── PendulumDynamics.m
+│   │   ├── PendulumSimulation.m
+│   │   ├── PendulumSymbolic.m
+│   │   └── README.md
+│   └── 2
+│       ├── BallAndBeamDynamics.m
+│       ├── ballandbeam.py
+│       ├── BallAndBeamSimulation.m
+│       ├── BallAndBeamSymbolic.m
+│       └── README.md
 └── README.md
 ```
 
